@@ -1,0 +1,3 @@
+[submodule "ansible/ansible-homelab-provisioning"]
+	path = ansible/ansible-homelab-provisioning
+	url = https://github.com/Danuptra/ansible-homelab-provisioning.git

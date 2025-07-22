@@ -1,3 +1,7 @@
+
+# Ignore user key cloud-init
+cloud-init/user-data.yml
+
 # Terraform state
 *.tfstate
 *.tfstate.*
